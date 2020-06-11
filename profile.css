@@ -1,0 +1,55 @@
+/*body{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color: #d2eaea;
+    height: 635px;
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
+    background-repeat: no-repeat;
+}*/
+
+.login-form{
+    text-align: center;
+}
+
+input{
+    height: 45px;
+}
+
+.form-login{
+    width: 600px;
+    /*background: transparent;*/
+    border: none;
+    outline: none;
+    border-bottom: 1px solid gray;
+    color: #151414;
+    font-size: 18px;
+    margin-bottom: 16px;
+}
+
+textarea{
+    width: 600px;
+    border: 2px solid #909191;
+}
+
+.h{
+    margin-top: 10px;
+    text-align: center;
+    font-family: cursive;
+    font-size: 20px;
+}
+
+form .submit{
+    background: #7f83ba;
+    color: #fff;
+    font-size: 20px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    height: 50px;
+    margin-top: 20px;
+}
+
+
+

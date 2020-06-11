@@ -1,0 +1,85 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url("images/bgreview.jpg");
+    height: 655px;
+    width:100%;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.contact-left-part{
+    margin: 0;
+    padding: 0;
+    height: 657px;
+    width:30%;
+    background-color: white;
+    float: left;
+}
+
+.contact-right-part{
+    height: 640px;
+    width:70%;
+    text-align: center;
+    font-family: sans-serif;
+    float: left;
+}
+
+.form-message{
+    width: 80%;
+    background: transparent;
+    border: none;
+    outline: none;
+    border-bottom: 1px solid gray;
+    color: #fff;
+    font-size: 18px;
+    margin-bottom: 16px;
+}
+
+input{
+    height: 45px;
+}
+
+form .submit{
+    background: #ff5722;
+    border-color: transparent;
+    color: #DA291C;
+    font-size: 20px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    height: 50px;
+    margin-top: 20px;
+}
+
+.contact-left-part-t{
+    height: 320px;
+    width:100%;
+    float: top;
+}
+
+.contact-left-part-b{
+    height: 320px;
+    width:100%;
+    float: top;
+}
+
+.contact-left-part-b img{
+    padding-left: 50px;
+    padding-top: 15px;
+    padding-top: 15px;
+}
+
+.contact-left-part-b h1 p{
+    padding-left: 40px;
+    padding-top: 35px;
+}
+
+table{
+    text-align: center;
+    padding-left: 40px;
+}
+
+td{
+    padding-top: 5px;
+}
